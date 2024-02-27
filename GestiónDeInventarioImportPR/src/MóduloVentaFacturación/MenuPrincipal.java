@@ -6,9 +6,7 @@ package MóduloVentaFacturación;
 
 
 import MóduloClientes.jfMenuClientesActualizado;
-import MóduloInventarioProducto.jFModuloInventario;
 import MóduloInventarioProducto.jFModuloInventario1;
-import MóduloInventarioProducto.jFModuloProducto;
 import MóduloInventarioProducto.jFModuloProducto1;
 import MóduloProveedor.MenúProveedores;
 import java.awt.Dimension;
